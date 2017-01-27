@@ -1,0 +1,12 @@
+{
+  "name": "purescript-rnx-parallax-scroll-view",
+  "version": "1.0.0",
+  "description": "Purescript wrapper for react-native-parallax-scroll-view",
+  "main": "index.js",
+  "repository": "atomicits/purescript-rnx-parallax-scroll-view",
+  "author": "Vishnu Prasad <vishnu@atomicits.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react-native-parallax-scroll-view": "^0.19.0"
+  }
+}
